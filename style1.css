@@ -1,0 +1,8 @@
+body {
+  background-color: #82afdf;
+}
+.card-img-top {
+  height: 350px;
+  object-fit: cover;
+  border-radius: 20px;
+}
